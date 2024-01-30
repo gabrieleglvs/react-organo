@@ -1,0 +1,19 @@
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 64px;
+    background-color: #6278F7;
+    color: white;
+    font-weight: 500;
+}
+
+.redes {
+    display: flex;
+    gap: 16px;
+}
+
+.logo {
+    width: 166px;
+    height: 63px;
+}
